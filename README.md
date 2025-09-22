@@ -1,4 +1,8 @@
 # ODOMETRY-COPPELIASIM
+# Adinda Krisantya 5022221156
+
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math
